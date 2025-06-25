@@ -33,22 +33,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-#### 🧑‍💼 [Abe-Diasporaw](https://github.com/Beki2121/abe-diasporaw)
-Inventory & service booking system for Scania Parma.  
-> React + Node.js + MySQL • Role-based access • Booking & inventory management
-
-#### 🗣️ [Evangadi Forum](https://github.com/Beki2121/evangadi-forum)
-Q&A platform for developers with authentication and answer threads.  
-> React + Node.js + MySQL • Auth • Comment System • Responsive UI
-
-#### 💬 Real-Time Chat App
-A modern messaging platform with public & private chat rooms, emoji, and voice chat.  
-> Socket.IO • Emoji picker • Typing indicators • File sharing
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
