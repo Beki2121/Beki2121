@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- GitHub Profile README for Beki2121 -->
 
-<!--
-**Beki2121/Beki2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hello, I'm Bereket Habtamu — Full Stack Developer</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full Stack Developer | Passionate about building clean, user-focused websites and real-world business apps
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🧠 About Me
+
+- 🌐 I build full-stack web applications using **React**, **Node.js**, **MySQL**, and **MongoDB**
+- 🧱 I help real businesses grow through smart digital tools and responsive design
+- 💬 I enjoy building apps like forums, real-time chats, and booking systems
+- 🌍 Languages: Amharic 🇪🇹 | English 🇬🇧 | Learning Chinese 🇨🇳
+- 📩 Reach me at: [berekethabtamu2121@gmail.com](mailto:berekethabtamu2121@gmail.com)
+
+---
+
+### 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+#### 🧑‍💼 [Abe-Diasporaw](https://github.com/Beki2121/abe-diasporaw)
+Inventory & service booking system for Scania Parma.  
+> React + Node.js + MySQL • Role-based access • Booking & inventory management
+
+#### 🗣️ [Evangadi Forum](https://github.com/Beki2121/evangadi-forum)
+Q&A platform for developers with authentication and answer threads.  
+> React + Node.js + MySQL • Auth • Comment System • Responsive UI
+
+#### 💬 Real-Time Chat App
+A modern messaging platform with public & private chat rooms, emoji, and voice chat.  
+> Socket.IO • Emoji picker • Typing indicators • File sharing
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Beki2121&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki2121&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Website: [bekitech.com](https://bekitech.com)
+- 💼 LinkedIn: [linkedin.com/in/bereket-habtamu](https://linkedin.com) <!-- Update your actual LinkedIn link -->
+- 📮 Email: [berekethabtamu2121@gmail.com](mailto:berekethabtamu2121@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Beki2121.Beki2121" alt="visitor badge"/>
+</p>
