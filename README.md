@@ -66,5 +66,6 @@ A modern messaging platform with public & private chat rooms, emoji, and voice c
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Beki2121.Beki2121" alt="visitor badge"/>
+  <img src="https://reporoster.com/badges/visits/Beki2121/Beki2121" alt="Visitor Badge" />
 </p>
+
