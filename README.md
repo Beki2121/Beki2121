@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Beki2121 -->
 
-<h1 align="center">👋 Hello, I'm Bereket Habtamu — Full Stack Developer</h1>
+<h1 align="center">👋 Hello, I'm Bereket Habtamu</h1>
 
 <p align="center">
   💻 Full Stack Developer | Passionate about building clean, user-focused websites and real-world business apps
@@ -53,7 +53,6 @@ A modern messaging platform with public & private chat rooms, emoji, and voice c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beki2121&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beki2121&layout=compact&theme=tokyonight" />
 </p>
 
@@ -62,7 +61,6 @@ A modern messaging platform with public & private chat rooms, emoji, and voice c
 ### 📫 Let's Connect
 
 - 🌐 Website: [bekitech.com](https://bekitech.com)
-- 💼 LinkedIn: [linkedin.com/in/bereket-habtamu](https://linkedin.com) <!-- Update your actual LinkedIn link -->
 - 📮 Email: [berekethabtamu2121@gmail.com](mailto:berekethabtamu2121@gmail.com)
 
 ---
