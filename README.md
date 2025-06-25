@@ -64,8 +64,3 @@ A modern messaging platform with public & private chat rooms, emoji, and voice c
 - 📮 Email: [berekethabtamu2121@gmail.com](mailto:berekethabtamu2121@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://reporoster.com/badges/visits/Beki2121/Beki2121" alt="Visitor Badge" />
-</p>
-
